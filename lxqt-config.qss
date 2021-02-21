@@ -1,0 +1,4 @@
+/* Размер значков "Центра настроек"*/
+QAbstractItemView {
+	icon-size: 32px;
+}
