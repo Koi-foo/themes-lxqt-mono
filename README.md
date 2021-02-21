@@ -1,6 +1,6 @@
 # Themes lxqt-mono
 
-**Source Code:** https://github.com/Koi-foo/kernel-manager.git
+**Source Code:** https://github.com/Koi-foo/themes-lxqt-mono.git
 
 ## Summary:
 Lxqt Desktop Theme
